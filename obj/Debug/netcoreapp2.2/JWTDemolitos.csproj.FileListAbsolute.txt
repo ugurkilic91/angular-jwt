@@ -1,0 +1,14 @@
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\bin\Debug\netcoreapp2.2\JWTDemolitos.deps.json
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\bin\Debug\netcoreapp2.2\JWTDemolitos.runtimeconfig.json
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\bin\Debug\netcoreapp2.2\JWTDemolitos.runtimeconfig.dev.json
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\bin\Debug\netcoreapp2.2\JWTDemolitos.dll
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\bin\Debug\netcoreapp2.2\JWTDemolitos.pdb
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.csprojAssemblyReference.cache
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.RazorAssemblyInfo.cache
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.RazorAssemblyInfo.cs
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.RazorTargetAssemblyInfo.cache
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.dll
+C:\Users\Uğur\Desktop\AngularJWT\JWTDemolitos\obj\Debug\netcoreapp2.2\JWTDemolitos.pdb
